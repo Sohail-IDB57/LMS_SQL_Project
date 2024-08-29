@@ -1,0 +1,10 @@
+Sohail Ahmad
+Id : 1280293
+Batch: CS/NVIT-A/57/01
+Learning Management System (LMS) Database Project
+
+This project involves the design and implementation of a comprehensive Learning Management System (LMS) database. 
+The LMS facilitates the management of various entities such as courses, students, trainers, batches, enrollments, 
+payments, and more. The database is designed to support educational institutions in efficiently organizing 
+and monitoring their educational activities.
+
