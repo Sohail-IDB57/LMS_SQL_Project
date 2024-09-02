@@ -1,4 +1,4 @@
-# LMS SQL Project
+# SQL Project: Learning Management System (LMS) Database
 
 ## Overview
 
